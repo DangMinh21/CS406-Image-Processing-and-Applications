@@ -1,1 +1,2 @@
-# CS406-IMAGE PROCESSING AND APPLICATIONS
+# CS406-Image Processing and Applications
+
